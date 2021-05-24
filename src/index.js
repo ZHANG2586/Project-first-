@@ -5,9 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode>    
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>,  //<React.StrictMode />作用是对其包含的组件以及被包含组件的后代元素都会运行严格模式检查！（作用：识别不安全的生命周期。关于使用过时字符串ref API的警告。关于使用废弃的findDOMNode方法的警告。检测意外的副作用。检测过时的context API）
   document.getElementById('root')
 );
 
