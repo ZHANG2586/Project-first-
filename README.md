@@ -1,6 +1,8 @@
 # Getting Started with Create React App
+#本项目是关于`会议室预定与位置签到系统`的项目介绍如下：
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+做这个项目是为了方便工作室的人预约会议室和查看缺勤情况的。主要功能为登录+登录状态持久化+github第三方登录，qq邮箱 +验证码实现注册，修改/找回密码，位置签到，会议室预定，看板娘等功能！这是本人第一个完整的项目，通过这次项目了解了项目开发的完 整流程。
+
 
 ## Available Scripts
 
